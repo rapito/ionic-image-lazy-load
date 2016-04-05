@@ -1,7 +1,7 @@
 {
   "name": "ionic-image-lazy-load",
   "main": "ionic-image-lazy-load.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "https://github.com/paveisistemas/ionic-image-lazy-load",
   "authors": [
     "Vincius Zilli Pavei <vinicius@paveisistemas.com.br>",
